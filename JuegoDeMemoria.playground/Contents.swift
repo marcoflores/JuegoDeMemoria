@@ -2,7 +2,7 @@
 
 import UIKit
 
-var str = "Hello, playground"
+var str = "Juego de Memoria"
 
 var numeros = 0...100
 
