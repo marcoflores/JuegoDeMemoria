@@ -2,8 +2,6 @@
 
 import UIKit
 
-var str = "Juego de Memoria"
-
 var numeros = 0...100
 
 for numero in numeros{
